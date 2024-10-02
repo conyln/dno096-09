@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "GUIA BECADOS",
+        "descripcion": "Guía para becados y becadas de Fundación Portas, para todos los niveles de educación superior. Detalla deberes, actividades, apoyos y cómo solicitarlos. PDF descargable, a través de QR proporcionado por acompañantes.",
+        "fecha": "2023",
+        "categoria": "Manual",
+        "foto": "https://github.com/user-attachments/assets/976c870e-cbdf-40db-b737-8c9261a7f154",
+        "fotos": "https://github.com/user-attachments/assets/976c870e-cbdf-40db-b737-8c9261a7f154",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "ISOTIPO FAVRAS",
+        "descripcion": "Isotipo para Favras, plataforma web que permite la corrección de documentos legales utilizando inteligencia artificial.",
+        "fecha": "2023",
+        "categoria": "Logotipo-Isotipo",
+        "foto": "https://github.com/user-attachments/assets/8418bc20-9c03-4625-8af8-b2a64d10ecfd",
+        "fotos": "https://github.com/user-attachments/assets/8418bc20-9c03-4625-8af8-b2a64d10ecfd",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "LOGOTIPO SPACEMURRI",
+        "descripcion": "Logotipo para Spacemurri, proyecto opensource para visualizar actividad en múltiples espacios, orientado a usuarios de tiling window managers.",
+        "fecha": "2024",
+        "categoria": "Logotipo-Isotipo",
+        "foto": "https://github.com/user-attachments/assets/1111e065-a321-4557-b113-7f1385c52c4e",
+        "fotos": "https://github.com/user-attachments/assets/1111e065-a321-4557-b113-7f1385c52c4e",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "ISOTIPO HUMAI",
+        "descripcion": "Isotipo para Humai, proyecto de juego de mesa colaborativo, para educar sobre acciones para cuidar del medioambiente y del humedal Río Maipo. El isotipo fue construido a base de la figura de las manos entrelazadas y aves del ecosistema del lugar, la ave migratoria, Gaviota Cahuil y la ave residente, Perrito.",
+        "fecha": "2021",
+        "categoria": "Logotipo-Isotipo",
+        "foto": "https://github.com/user-attachments/assets/c39a24e5-4ec9-4e3a-bdc2-b681b4b8c701",
+        "fotos": "https://github.com/user-attachments/assets/c39a24e5-4ec9-4e3a-bdc2-b681b4b8c701",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "ISOTIPO ARUMI",
+        "descripcion": "Isotipo para Arumi, proyecto colectivo de intervención performática para reivindicar la importancia del patrimonio biocultural. El isotipo fue construido a base de una naranja, con inspiración de la variante de naranja del meme Banana Cat, incorporando el rostro felino con mayor énfasis.",
+        "fecha": "2022",
+        "categoria": "Logotipo-Isotipo",
+        "foto": "https://github.com/user-attachments/assets/83d365b6-b46b-4f92-8121-78dee8ab38b6",
+        "fotos": "https://github.com/user-attachments/assets/83d365b6-b46b-4f92-8121-78dee8ab38b6",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "WIREFRAME EQUIPO",
+        "descripcion": "Wireframe para la innerpage de Equipo, de la webpage de Fundación Portas. Construcción de las tarjetas, acorde a las necesidades de información de los usuarios. Se utilizó el recurso de content reveal animado.",
+        "fecha": "2023",
+        "categoria": "UI",
+        "foto": "https://github.com/user-attachments/assets/6595ce3f-b280-473a-a8e9-d54d1429e6ce",
+        "fotos": "https://github.com/user-attachments/assets/6595ce3f-b280-473a-a8e9-d54d1429e6ce",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "ILUSTRACION VECTORIAL",
+        "descripcion": "Ilustración vectorial, con profundidad y volumen, con representación de identidad.",
+        "fecha": "2024",
+        "categoria": "Ilustración",
+        "foto": "https://github.com/user-attachments/assets/235d60d5-4a37-47bc-8c91-94c2e554cc15",
+        "fotos": "https://github.com/user-attachments/assets/235d60d5-4a37-47bc-8c91-94c2e554cc15",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "WILD BOMB",
+        "descripcion": "Diseño de packaging para proyecto Wild Bomb para Wild Foods. Contenido gráfico y evaluación de materialidad y producción.",
+        "fecha": "2021",
+        "categoria": "Packaging",
+        "foto": "https://github.com/user-attachments/assets/707eb72d-296b-4b89-9eaf-aee74b4f50c2",
+        "fotos": "https://github.com/user-attachments/assets/707eb72d-296b-4b89-9eaf-aee74b4f50c2",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "HUMAI",
+        "descripcion": "Diseño de packaging y piezas para proyecto Humai, proyecto de juego de mesa colaborativo, para educar sobre acciones para cuidar del medioambiente y del humedal Río Maipo. Contenido gráfico y evaluación de materialidad y producción.",
+        "fecha": "2020",
+        "categoria": "Packaging",
+        "foto": "https://github.com/user-attachments/assets/321e249f-1099-4c68-a7f2-42af446bdf64",
+        "fotos": "https://github.com/user-attachments/assets/321e249f-1099-4c68-a7f2-42af446bdf64",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "MR BUNGLE UPCYCLING",
+        "descripcion": "Proyecto de upcycling de integración de prendas a través de bordado a mano, para la reparación y mejora de una prenda de alto valor sentimental, sin dañar ni alterar irreversiblemente su estampado original.",
+        "fecha": "2024",
+        "categoria": "Vestuario",
+        "foto": "https://github.com/user-attachments/assets/6e3ff576-8b95-4a89-931b-b5b3426a3cc8",
+        "fotos": "https://github.com/user-attachments/assets/6e3ff576-8b95-4a89-931b-b5b3426a3cc8",
+        "github": "https://github.com/conyln"
+    }
+]
