@@ -1,5 +1,6 @@
 # dno096-09
 Evaluación 2°
+PORTADAS
 ![GUIA BECADOS](https://github.com/user-attachments/assets/f3626042-b26c-4298-aa2b-88c3a916465d)
 ![ISOTIPO FAVRAS](https://github.com/user-attachments/assets/cf635912-deea-4700-b24b-da9c28fa3623)
 ![LOGOTIPO SPACEMURRI](https://github.com/user-attachments/assets/3d9600c3-a173-4dfc-ba3d-a1cec2f42f2d)
@@ -12,3 +13,16 @@ Evaluación 2°
 ![MR BUNGLE UPCYCLING](https://github.com/user-attachments/assets/101cf045-2f8a-4535-98ee-a20cf8d95ed1)
 ![CARRUSEL 8M](https://github.com/user-attachments/assets/9b919afe-a45b-438e-a82a-2ebdfd981d94)
 ![CINNAMOROLL](https://github.com/user-attachments/assets/1d34a065-97a8-400b-9c0e-cfa416206309)
+IMAGENES
+![GUIA BECADOS](https://github.com/user-attachments/assets/a85b73d2-a4e8-4600-8084-ab4aa6f76b75)
+![ISOTIPO FAVRAS](https://github.com/user-attachments/assets/81a644e3-3d75-49a4-8969-ee39bfe131c5)
+![LAGOTIPO SPACEMURRI](https://github.com/user-attachments/assets/5101169f-1a41-4ed3-a5de-2cf37ff05a28)
+![ISOTIPO HUMAI](https://github.com/user-attachments/assets/0ce2f1b6-a25f-4fca-a77c-9f9932e15f10)
+![ISOTIPO ARUMI](https://github.com/user-attachments/assets/03dbc2ba-bb17-40f7-aee9-281f3e8d83c0)
+![WIREFRAME EQUIPO](https://github.com/user-attachments/assets/cd9e70c1-26fa-4b22-97f2-8a97412cd390)
+![ILUSTRACIÓN CONEJO](https://github.com/user-attachments/assets/094ffb94-8d1b-4748-b331-1bb275bab7b2)
+![WILD BOMB](https://github.com/user-attachments/assets/3541dced-de2c-430f-8107-fc14d7aadac1)
+![HUMAI](https://github.com/user-attachments/assets/d57488f1-59bb-4d8b-b725-352048e6268b)
+![UPCYCLING MR BUNGLE](https://github.com/user-attachments/assets/b81f3008-4fdd-438e-a25c-7f3f13f4ec2b)
+![CARRUSEL 8M](https://github.com/user-attachments/assets/aab17f90-9eb2-4218-9b23-db4d5be36cf4)
+![CINNAMOROLL](https://github.com/user-attachments/assets/a69acd87-0df8-44d9-aa5d-6c539389733c)
